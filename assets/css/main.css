@@ -21,7 +21,7 @@
 :root { 
   --background-color: #ffffff; /* Background color for the entire website, including individual sections */
   --default-color: #444444; /* Default color used for the majority of the text content across the entire website */
-  --heading-color: #37517e; /* Color for headings, subheadings and title throughout the website */
+  --heading-color: #3470d7; /* Color for headings, subheadings and title throughout the website */
   --accent-color: #47b2e4; /* Accent color that represents your brand on the website. It's used for buttons, links, and other elements that need to stand out */
   --surface-color: #ffffff; /* The surface color is used as a background of boxed elements within sections, such as cards, icon boxes, or other elements that require a visual separation from the global background. */
   --contrast-color: #ffffff; /* Contrast color for text, ensuring readability against backgrounds of accent, heading, or default colors. */
@@ -45,7 +45,7 @@
 }
 
 .dark-background {
-  --background-color: #37517e;
+  --background-color: #3470d7;
   --default-color: #ffffff;
   --heading-color: #ffffff;
   --surface-color: #4668a2;
@@ -214,7 +214,7 @@ h6 {
 /* Index Page Header on Scroll
 ------------------------------*/
 .index-page.scrolled .header {
-  --background-color: rgba(40, 58, 90, 0.9);
+  --background-color:  #3470d7;
 }
 
 /*--------------------------------------------------------------
